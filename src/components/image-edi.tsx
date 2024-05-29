@@ -49,7 +49,7 @@ export const ImageEdit = () => {
                 height: img.height,
             });
 
-            const maxWidth = window.innerWidth > 1300 ? 1000 : 500;
+            const maxWidth = window.innerWidth > 1300 ? 900 : 500;
             const maxHeight = window.innerHeight > 900 ? 600 : 320;
             let width = img.width;
             let height = img.height;
