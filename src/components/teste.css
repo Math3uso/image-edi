@@ -1,0 +1,3 @@
+.teste{
+    filter: blur() brightness() contrast() opacity() saturate() invert() sepia() hue-rotate();
+}
